@@ -1,0 +1,132 @@
+ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,Weight
+7,Adam Strange,good,Male,blue,Human,Blond,DC Comics,-,185,88
+36,Aqualad,good,Male,blue,Atlantean,Black,DC Comics,-,178,106
+37,Aquaman,good,Male,blue,Atlantean,Blond,DC Comics,-,185,146
+48,Atlas,bad,Male,blue,God / Eternal,Brown,DC Comics,-,198,126
+49,Atom,good,Male,blue,-,Red,DC Comics,-,178,68
+51,Atom Girl,good,Female,black,-,Black,DC Comics,-,168,54
+52,Atom II,good,Male,brown,Human,Auburn,DC Comics,-,183,81
+59,Bane,bad,Male,-,Human,-,DC Comics,-,203,180
+63,Batgirl,good,Female,green,Human,Red,DC Comics,-,170,57
+65,Batgirl IV,good,Female,green,Human,Black,DC Comics,-,165,52
+67,Batgirl VI,good,Female,blue,-,Blond,DC Comics,-,168,61
+68,Batman,good,Male,blue,Human,black,DC Comics,-,188,95
+69,Batman,good,Male,blue,Human,Black,DC Comics,-,178,77
+70,Batman II,good,Male,blue,Human,Black,DC Comics,-,178,79
+75,Beast Boy,good,Male,green,Human,Green,DC Comics,green,173,68
+80,Big Barda,bad,Female,blue,New God,Black,DC Comics,-,188,135
+92,Bizarro,neutral,Male,black,Bizarro,Black,DC Comics,white,191,155
+94,Black Adam,bad,Male,brown,-,Black,DC Comics,-,191,113
+96,Black Canary,good,Female,blue,Human,Blond,DC Comics,-,165,58
+97,Black Canary,good,Female,blue,Metahuman,Blond,DC Comics,-,170,59
+102,Black Lightning,good,Male,brown,-,No Hair,DC Comics,-,185,90
+104,Black Manta,bad,Male,black,Human,No Hair,DC Comics,-,188,92
+156,Captain Marvel,good,Male,blue,Human,Black,DC Comics,-,193,101
+157,Captain Marvel II,good,Male,blue,Human,Black,DC Comics,-,175,74
+164,Catwoman,good,Female,green,Human,Black,DC Comics,-,175,61
+171,Cheetah,bad,Female,green,Human,Blond,DC Comics,-,163,50
+172,Cheetah II,bad,Female,green,Human,Brown,DC Comics,-,170,55
+173,Cheetah III,bad,Female,brown,Human,Brown,DC Comics,-,175,54
+176,Citizen Steel,good,Male,green,Human,Red,DC Comics,-,183,170
+180,Clock King,bad,Male,blue,Human,Black,DC Comics,-,178,78
+193,Cyborg,good,Male,brown,Cyborg,Black,DC Comics,-,198,173
+203,Darkseid,bad,Male,red,New God,No Hair,DC Comics,grey,267,817
+211,Deadman,good,Male,blue,Human,Black,DC Comics,-,183,90
+213,Deadshot,bad,Male,brown,Human,Brown,DC Comics,-,185,91
+215,Deathstroke,neutral,Male,blue,Human,White,DC Comics,-,193,101
+223,Doctor Fate,good,Male,blue,Human,Blond,DC Comics,-,188,89
+228,Donna Troy,good,Female,blue,Amazon,Black,DC Comics,-,175,63
+229,Doomsday,bad,Male,red,Alien,White,DC Comics,-,244,412
+239,Elongated Man,good,Male,blue,-,Red,DC Comics,-,185,80
+241,Enchantress,good,Female,blue,Human,Blond,DC Comics,-,168,57
+245,Etrigan,neutral,Male,red,Demon,No Hair,DC Comics,yellow,193,203
+260,Firestorm,good,Male,blue,Human,Auburn,DC Comics,-,188,91
+262,Flash,good,Male,blue,Human,Brown / White,DC Comics,-,180,81
+264,Flash II,good,Male,blue,Human,Blond,DC Comics,-,183,88
+265,Flash III,good,Male,-,Human,-,DC Comics,-,183,86
+266,Flash IV,good,Male,yellow,Human,Auburn,DC Comics,-,157,52
+293,Gorilla Grodd,bad,Male,yellow,Gorilla,Black,DC Comics,-,198,270
+294,Granny Goodness,bad,Female,blue,-,White,DC Comics,-,178,115
+297,Green Arrow,good,Male,green,Human,Blond,DC Comics,-,188,88
+304,Guy Gardner,good,Male,blue,Human-Vuldarian,Red,DC Comics,-,188,95
+305,Hal Jordan,good,Male,brown,Human,Brown,DC Comics,-,188,90
+308,Harley Quinn,bad,Female,blue,Human,Blond,DC Comics,-,170,63
+311,Hawk,good,Male,red,-,Brown,DC Comics,-,185,89
+314,Hawkgirl,good,Female,green,-,Red,DC Comics,-,175,61
+315,Hawkman,good,Male,blue,-,Brown,DC Comics,-,185,88
+316,Hawkwoman,good,Female,green,-,Red,DC Comics,-,175,54
+318,Hawkwoman III,good,Female,blue,-,Red,DC Comics,-,170,65
+319,Heat Wave,bad,Male,blue,Human,No Hair,DC Comics,-,180,81
+333,Huntress,good,Female,blue,-,Black,DC Comics,-,180,59
+339,Impulse,good,Male,yellow,Human,Auburn,DC Comics,-,170,65
+367,John Stewart,good,Male,green,Human,Black,DC Comics,-,185,90
+369,Joker,bad,Male,green,Human,Green,DC Comics,white,196,86
+379,Karate Kid,good,Male,brown,Human,Brown,DC Comics,-,173,72
+386,Killer Croc,bad,Male,red,Metahuman,No Hair,DC Comics,green,244,356
+388,Kilowog,good,Male,red,Bolovaxian,No Hair,DC Comics,pink,234,324
+396,Krypto,good,Male,blue,Kryptonian,White,DC Comics,-,64,18
+397,Kyle Rayner,good,Male,green,Human,Black,DC Comics,-,180,79
+405,Lex Luthor,bad,Male,green,Human,No Hair,DC Comics,-,188,95
+406,Light Lass,good,Female,blue,-,Red,DC Comics,-,165,54
+407,Lightning Lad,good,Male,blue,-,Red,DC Comics,-,155,65
+408,Lightning Lord,bad,Male,blue,-,Red,DC Comics,-,191,95
+413,Lobo,neutral,Male,red,Czarnian,Black,DC Comics,blue-white,229,288
+432,Martian Manhunter,good,Male,red,Martian,No Hair,DC Comics,green,201,135
+439,Maxima,bad,Female,brown,-,Red,DC Comics,-,180,72
+444,Mera,good,Female,blue,Atlantean,Red,DC Comics,-,175,72
+445,Metallo,bad,Male,green,Android,Brown,DC Comics,-,196,90
+446,Metamorpho,good,Male,black,-,No Hair,DC Comics,-,185,90
+448,Metron,good,Male,blue,-,Black,DC Comics,-,185,86
+451,Micro Lad,good,Male,grey,-,Brown,DC Comics,-,183,77
+455,Miss Martian,good,Female,red,-,Red,DC Comics,-,178,61
+457,Mister Freeze,bad,Male,-,Human,-,DC Comics,-,183,86
+468,Monarch,good,Male,blue,-,White,DC Comics,-,193,90
+491,Nightwing,good,Male,blue,Human,Black,DC Comics,-,178,79
+505,Oracle,good,Female,blue,Human,Red,DC Comics,-,178,59
+514,Penguin,bad,Male,blue,Human,Black,DC Comics,-,157,79
+517,Phantom Girl,good,Female,blue,-,Black,DC Comics,-,168,54
+521,Plastic Man,good,Male,blue,Human,Black,DC Comics,-,185,80
+522,Plastique,bad,Female,blue,-,Red,DC Comics,-,168,55
+523,Poison Ivy,bad,Female,green,Human,Red,DC Comics,green,168,50
+525,Power Girl,good,Female,blue,Kryptonian,blond,DC Comics,-,180,81
+529,Professor Zoom,bad,Male,blue,Human,Strawberry Blond,DC Comics,-,180,81
+537,Question,good,Male,blue,Human,Blond,DC Comics,-,188,83
+540,Ra's Al Ghul,bad,Male,green,Human,Grey,DC Comics,-,193,97
+544,Raven,neutral,Female,indigo,Human,Black,DC Comics,-,165,50
+545,Ray,good,Male,green,Human,Red,DC Comics,-,178,70
+547,Red Arrow,good,Male,green,Human,Red,DC Comics,-,180,83
+548,Red Hood,neutral,Male,blue,Human,Black,DC Comics,-,183,81
+551,Red Robin,good,Male,blue,Human,Black,DC Comics,-,165,56
+553,Red Tornado,good,Male,green,Android,No Hair,DC Comics,-,185,146
+559,Rick Flag,bad,Male,blue,-,Brown,DC Comics,-,185,85
+563,Robin,good,Male,blue,Human,Black,DC Comics,-,178,79
+564,Robin II,good,Male,blue,Human,Red,DC Comics,-,183,101
+565,Robin III,good,Male,blue,Human,Black,DC Comics,-,165,56
+566,Robin V,good,Male,blue,Human,Black,DC Comics,-,137,38
+571,Rorschach,good,Male,blue,Human,Red,DC Comics,-,168,63
+578,Scarecrow,bad,Male,blue,Human,Brown,DC Comics,-,183,63
+587,Shadow Lass,good,Female,black,Talokite,Black,DC Comics,blue,173,54
+603,Sinestro,neutral,Male,black,Korugaran,Black,DC Comics,red,201,92
+604,Siren,bad,Female,blue,Atlantean,Purple,DC Comics,-,175,72
+611,Solomon Grundy,bad,Male,black,Zombie,White,DC Comics,-,279,437
+613,Space Ghost,good,Male,-,Human,-,DC Comics,-,188,113
+634,Starfire,good,Female,green,Tamaranean,Auburn,DC Comics,orange,193,71
+635,Stargirl,good,Female,blue,Human,Blond,DC Comics,-,165,62
+636,Static,good,Male,brown,Mutant,Black,DC Comics,-,170,63
+637,Steel,good,Male,brown,-,No Hair,DC Comics,-,201,131
+639,Steppenwolf,bad,Male,red,New God,Black,DC Comics,white,183,91
+643,Superboy,good,Male,blue,-,Black,DC Comics,-,170,68
+644,Superboy-Prime,bad,Male,blue,Kryptonian,Black / Blue,DC Comics,-,180,77
+645,Supergirl,good,Female,blue,Kryptonian,Blond,DC Comics,-,165,54
+646,Superman,good,Male,blue,Kryptonian,Black,DC Comics,-,191,101
+659,The Comedian,neutral,Male,brown,Human,Black,DC Comics,-,188,101
+676,Trickster,-,Male,blue,Human,Blond,DC Comics,-,183,81
+678,Triplicate Girl,good,Female,purple,-,Brown,DC Comics,-,168,59
+680,Two-Face,bad,Male,-,-,-,DC Comics,-,183,82
+694,Vibe,good,Male,brown,Human,Black,DC Comics,-,178,71
+701,Vixen,good,Female,amber,Human,Black,DC Comics,-,175,63
+708,Warp,bad,Male,brown,-,Black,DC Comics,-,173,67
+720,Wonder Girl,good,Female,blue,Demi-God,Blond,DC Comics,-,165,51
+722,Wonder Woman,good,Female,blue,Amazon,Black,DC Comics,-,183,74
+732,Zatanna,good,Female,blue,Human,Black,DC Comics,-,170,57
+733,Zoom,bad,Male,red,-,Brown,DC Comics,-,185,81

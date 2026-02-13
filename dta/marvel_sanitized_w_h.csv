@@ -1,4 +1,4 @@
-ID,Name,Alignment,Gender,EyeColor,Race,HairColor,Publisher,SkinColor,Height,Weight
+ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,Weight
 29,Ant-Man,good,Male,blue,Human,Blond,Marvel Comics,-,211,122
 30,Ant-Man II,good,Male,blue,Human,Blond,Marvel Comics,-,183,86
 33,Anti-Venom,-,Male,blue,Symbiote,Blond,Marvel Comics,-,229,358
