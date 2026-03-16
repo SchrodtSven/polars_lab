@@ -7,7 +7,7 @@ ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,W
 39,Archangel,good,Male,blue,Mutant,Blond,Marvel Comics,blue,183,68
 40,Arclight,bad,Female,violet,-,Purple,Marvel Comics,-,173,57
 41,Ardina,good,Female,white,Alien,Orange,Marvel Comics,gold,193,98
-42,Ares,good,Male,brown,-,Brown,Marvel Comics,-,185,270
+42,Ares,good,Male,brown,Olympian,Brown,Marvel Comics,-,185,270
 43,Ariel,good,Female,purple,-,Pink,Marvel Comics,-,165,59
 44,Armor,good,Female,black,-,Black,Marvel Comics,-,163,50
 47,Atlas,good,Male,brown,Mutant,Red,Marvel Comics,-,183,101
@@ -18,8 +18,8 @@ ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,W
 71,Battlestar,good,Male,brown,-,Black,Marvel Comics,-,198,133
 73,Beak,good,Male,black,-,White,Marvel Comics,-,175,63
 74,Beast,good,Male,blue,Mutant,Blue,Marvel Comics,blue,180,181
-78,Beta Ray Bill,good,Male,-,-,No Hair,Marvel Comics,-,201,216
-82,Big Man,bad,Male,blue,-,Brown,Marvel Comics,-,165,71
+78,Beta Ray Bill,good,Male,-,Cyborg,No Hair,Marvel Comics,-,201,216
+82,Big Man,bad,Male,blue,Human,Brown,Marvel Comics,-,165,71
 85,Binary,good,Female,blue,-,Blond,Marvel Comics,-,180,54
 91,Bishop,good,Male,brown,Mutant,No Hair,Marvel Comics,-,198,124
 95,Black Bolt,good,Male,blue,Inhuman,Black,Marvel Comics,-,188,95
@@ -74,7 +74,7 @@ ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,W
 224,Doctor Octopus,bad,Male,brown,Human,Brown,Marvel Comics,-,175,110
 225,Doctor Strange,good,Male,grey,Human,Black,Marvel Comics,-,188,81
 226,Domino,good,Female,blue,Human,Black,Marvel Comics,white,173,54
-230,Doppelganger,bad,Male,white,-,No Hair,Marvel Comics,-,196,104
+230,Doppelganger,bad,Male,white,Clone,No Hair,Marvel Comics,-,196,104
 233,Drax the Destroyer,good,Male,red,Human / Altered,No Hair,Marvel Comics,green,193,306
 236,Electro,bad,Male,blue,Human,Auburn,Marvel Comics,-,180,74
 237,Elektra,good,Female,blue,Human,Black,Marvel Comics,-,175,59
@@ -93,7 +93,7 @@ ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,W
 268,Franklin Richards,good,Male,blue,Mutant,Blond,Marvel Comics,-,142,45
 269,Franklin Storm,good,-,blue,-,Grey,Marvel Comics,-,188,92
 270,Frenzy,bad,Female,brown,-,Black,Marvel Comics,-,211,104
-271,Frigga,good,Female,blue,-,White,Marvel Comics,-,180,167
+271,Frigga,good,Female,blue,Asgardian,White,Marvel Comics,-,180,167
 272,Galactus,neutral,Male,black,Cosmic Entity,Black,Marvel Comics,-,876,16
 273,Gambit,good,Male,red,Mutant,Brown,Marvel Comics,-,185,81
 274,Gamora,good,Female,yellow,Zen-Whoberian,Black,Marvel Comics,green,183,77
@@ -104,7 +104,7 @@ ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,W
 292,Goliath IV,good,Male,brown,-,Black,Marvel Comics,-,183,90
 295,Gravity,good,Male,blue,Human,Brown,Marvel Comics,-,178,79
 298,Green Goblin,bad,Male,blue,Human,Auburn,Marvel Comics,-,180,83
-299,Green Goblin II,bad,Male,blue,-,Auburn,Marvel Comics,-,178,77
+299,Green Goblin II,bad,Male,blue,Human,Auburn,Marvel Comics,-,178,77
 300,Green Goblin III,good,Male,-,-,-,Marvel Comics,-,183,88
 301,Green Goblin IV,good,Male,green,-,Brown,Marvel Comics,-,178,79
 302,Groot,good,Male,yellow,Flora Colossus,-,Marvel Comics,-,701,4
@@ -114,15 +114,15 @@ ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,W
 320,Hela,bad,Female,green,Asgardian,Black,Marvel Comics,-,213,225
 322,Hellcat,good,Female,blue,Human,Red,Marvel Comics,-,173,61
 323,Hellstorm,good,Male,red,-,Red,Marvel Comics,-,185,81
-324,Hercules,good,Male,blue,Demi-God,Brown,Marvel Comics,-,196,146
-327,Hobgoblin,bad,Male,blue,-,Grey,Marvel Comics,-,180,83
+324,Hercules,good,Male,blue,Demi-God,Brown,Marvel Comics-,196,146
+327,Hobgoblin,bad,Male,blue,Human,Grey,Marvel Comics,-,180,83
 329,Hope Summers,good,Female,green,-,Red,Marvel Comics,-,168,48
 330,Howard the Duck,good,Male,brown,-,Yellow,Marvel Comics,-,79,18
 331,Hulk,good,Male,green,Human / Radiation,Green,Marvel Comics,green,244,630
 332,Human Torch,good,Male,blue,Human / Radiation,Blond,Marvel Comics,-,178,77
 334,Husk,good,Female,blue,Mutant,Blond,Marvel Comics,-,170,58
 335,Hybrid,good,Male,brown,Symbiote,Black,Marvel Comics,-,175,77
-336,Hydro-Man,bad,Male,brown,-,Brown,Marvel Comics,-,188,119
+336,Hydro-Man,bad,Male,brown,Human,Brown,Marvel Comics,-,188,119
 337,Hyperion,good,Male,blue,Eternal,Red,Marvel Comics,-,183,207
 338,Iceman,good,Male,brown,Mutant,Brown,Marvel Comics,-,173,65
 342,Ink,good,Male,blue,Mutant,No Hair,Marvel Comics,-,180,81
@@ -172,7 +172,7 @@ ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,W
 467,Molten Man,bad,Male,gold,-,Gold,Marvel Comics,-,196,248
 470,Moon Knight,good,Male,brown,Human,Brown,Marvel Comics,-,188,101
 471,Moonstone,bad,Female,blue,-,Blond,Marvel Comics,-,180,59
-472,Morlun,bad,Male,white / red,-,Black,Marvel Comics,-,188,79
+472,Morlun,bad,Male,white / red,Vampire,Black,Marvel Comics,-,188,79
 473,Morph,good,Male,white,-,No Hair,Marvel Comics,-,178,79
 474,Moses Magnum,bad,Male,brown,-,Black,Marvel Comics,-,175,72
 475,Mr Immortal,good,Male,blue,Mutant,Blond,Marvel Comics,-,188,70
@@ -205,7 +205,7 @@ ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,W
 539,Quill,good,Male,brown,-,Brown,Marvel Comics,-,163,56
 546,Razor-Fist II,bad,Male,blue,-,No Hair,Marvel Comics,-,191,117
 549,Red Hulk,neutral,Male,yellow,Human / Radiation,Black,Marvel Comics,red,213,630
-552,Red Skull,bad,Male,blue,-,No Hair,Marvel Comics,-,188,108
+552,Red Skull,bad,Male,blue,Human,No Hair,Marvel Comics,-,188,108
 558,Rhino,bad,Male,brown,Human / Radiation,Brown,Marvel Comics,-,196,320
 562,Ripcord,good,Female,green,-,Black,Marvel Comics,-,180,72
 568,Rocket Raccoon,good,Male,brown,Animal,Brown,Marvel Comics,-,122,25
@@ -290,7 +290,7 @@ ID,Name,Alignment,Gender,EyeColor,Species,HairColor,Publisher,SkinColor,Height,W
 717,Wiz Kid,good,-,brown,-,Black,Marvel Comics,-,140,39
 718,Wolfsbane,good,Female,green,-,Auburn,Marvel Comics,-,366,473
 719,Wolverine,good,Male,blue,Mutant,Black,Marvel Comics,-,160,135
-721,Wonder Man,good,Male,red,-,Black,Marvel Comics,-,188,171
+721,Wonder Man,good,Male,red,Human,Black,Marvel Comics,-,188,173
 724,Wyatt Wingfoot,good,Male,brown,-,Black,Marvel Comics,-,196,117
 725,X-23,good,Female,green,Mutant / Clone,Black,Marvel Comics,-,155,50
 726,X-Man,good,Male,blue,-,Brown,Marvel Comics,-,175,61
